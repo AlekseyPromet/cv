@@ -2,6 +2,7 @@
 
 Перминов Алексей Владимирович
 Дата рождения 04 мая 1985
+
 ## Контакты
 - telegram: @Promet_alex
 - email: promet.alex@ya.ru
@@ -20,8 +21,8 @@
 - Архитектура модель С4 + UML
 
 ## Личные проекты
-- Простой сервис для создания вёбхуков [https://github.com/AlekseyPromet/simplewebhook]
-- 
+- Простой сервис для создания вёбхуков https://github.com/AlekseyPromet/simplewebhook
+- Сервис регистрации с помощью JWT транспорт GRPC https://github.com/AlekseyPromet/simple_sso
 - 
 - 
 - 
@@ -46,3 +47,5 @@
 ## Образование
 
 ## Интересы
+- Системный дизайн
+- Проектирование распределённых систем

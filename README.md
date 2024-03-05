@@ -10,10 +10,12 @@
 
 ## Основные навыки работы с технологиями
 - Golang c 2017, version 1.2
+- Golang lib: gin, chi, uber-fx, zap, vault, consul, terraform
 - Postgresql c 2018, version 12
 - Mongo DB c 2018
 - Kafka
 - RabbitMQ
+- Clickhouse
 - Prometheus, Grafana
 - Docker, Docker-composer
 - Kubernetes

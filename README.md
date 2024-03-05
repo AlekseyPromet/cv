@@ -11,14 +11,15 @@
 ## Основные навыки работы с технологиями
 - Golang c 2017, version 1.2
 - Postgresql c 2018, version 12
-- Mongo DB c 2018, version
+- Mongo DB c 2018
 - Kafka
 - RabbitMQ
-- Prometheus
-- Docker Docker-composer
+- Prometheus, Grafana
+- Docker, Docker-composer
 - Kubernetes
-- gRPC + protobuf
-- Архитектура модель С4 + UML
+- gRPC, protobuf
+- Архитектура модель, С4 + UML
+- Jira, Confluence
 
 ## Личные проекты
 - Простой сервис для создания вёбхуков https://github.com/AlekseyPromet/simplewebhook

@@ -6,7 +6,7 @@
 ## Контакты
 - telegram: @Promet_alex
 - email: promet.alex@ya.ru
-- email: promet.alex@gmail.ru 
+- email: promet.alex@gmail.com
 
 ## Основные навыки работы с технологиями
 - Golang c 2017, version 1.2

@@ -17,8 +17,9 @@
 - Clickhouse, Kibana
 - Prometheus, Grafana
 - Docker, Docker-compose, Kubernetes
-- Архитектура модель, С4 + UML
+- Архитектура моделирование С4 + UML
 - Jira, Confluence
+- Нагрузочное тестирование: k6
 
 ## Личные проекты
 - Простой сервис для создания вёбхуков https://github.com/AlekseyPromet/simplewebhook

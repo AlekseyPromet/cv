@@ -8,18 +8,22 @@
 - email: promet.alex@ya.ru
 
 ## Основные навыки работы с технологиями
-- Golang c 2017, version 1.2
-- Golang lib: gin, echo, chi, uber-fx, zap, vault, consul, terraform, gRPC, protobuf
-- Postgresql c 2017, version 12
-- Mongo DB c 2018
-- Kafka, RabbitMQ
-- Clickhouse, Kibana
-- Prometheus, Grafana
-- Docker, Docker-compose, Kubernetes
-- Архитектура моделирование С4 + UML
-- Jira, Confluence
-- Нагрузочное тестирование: k6
-
+- Golang, c 2017 с version 1.2 [8 лет]
+- Golang lib: gin, echo, chi, uber-fx, zap, zerolog, vault, consul, terraform, gRPC and protobuf, testify, gomega, ginkgo, crypto
+- Базы данных:
+    - Postgresql [ уровень: проектирование бд и оптимизация запросов, написание проыедур ]
+    - Mongo DB [ уровень: проектирование бд и оптимизация запросов, написание проыедур ]
+    - Clickhouse, Redis и другие db
+- Шины данных: Kafka, RabbitMQ
+- Метрики и мониторинг: Prometheus, Grafana, Victoria metrics, ELK and Kibana 
+- Контенеры и облака: Docker, Docker-compose, Kubernetes, Yandex cloud, Cloud.ru [sber]
+- Архитектурное моделирование процессов С4 + UML
+- Ведение задач: Jira, Confluence, Trello
+- Тестирование: postman, insomnia
+- Нагрузочное тестирование: k6, jmeter
+- Управление версиями и сборка: Git, Gitlab ci, Bazel, make
+- ОС: Ubuntu, debian, alpine. Windows wsl, powershell
+  
 ## Личные проекты
 - Сервис для сканирования открытых портов для разных протоколов https://github.com/AlekseyPromet/masscan
 - Простой сервис для создания вёбхуков https://github.com/AlekseyPromet/simplewebhook
@@ -94,4 +98,5 @@
 - Системный дизайн
 - Проектирование распределённых и отказоустойчивых систем
 - Проектирование высоконагруженных сервисов
-- Изучение новых фреймворков подходов
+- Изучение новых фреймворков и подходов, обучение и передача знаний
+- Языки zap, rust, vlang
